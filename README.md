@@ -1,4 +1,4 @@
-# CodeAlpha-PortfolioWebsite
+
 # 🌐 CodeAlpha Personal Portfolio Website
 
 A modern and responsive Personal Portfolio Website developed using **HTML, CSS, and JavaScript** as part of the **Frontend Development Internship at CodeAlpha**. This portfolio showcases my skills, projects, resume, and contact information with a clean, interactive, and user-friendly interface.
